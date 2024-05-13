@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/system-design/escalabilidade-capa.png
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ resumo ]

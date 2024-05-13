@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/dr-logo-vg.png
-author: matheus
+author: eder
 featured: true
 categories: [ aws, arquitetura, disaster-recovery, terraform ]
 title: Disaster Recovery — Projetando e Gerenciando Arquiteturas Multi-Region na AWS

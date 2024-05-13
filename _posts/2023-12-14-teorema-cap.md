@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/system-design/cap-logo.png
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ system-design, databases, engineering ]

@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/system-design/balance-1.png
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ system-design, engineering, cloud ]

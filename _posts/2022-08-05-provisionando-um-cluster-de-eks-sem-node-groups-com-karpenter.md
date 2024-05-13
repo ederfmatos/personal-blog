@@ -4,7 +4,7 @@ title: Provisionando um cluster de EKS sem Node Groups com Karpenter
 canonical_url: https://medium.com/@fidelissauro/provisionando-um-cluster-de-eks-sem-node-groups-com-karpenter-4d302b32b620?source=rss-fc2fda5e9bc2------2
 # image: https://cdn-images-1.medium.com/max/1024/0*ZQy5ZyZidbgJThzP.png
 image: assets/images/karpenter-node-groups.png
-author: matheus
+author: eder
 featured: false
 categories: [ aws, arquitetura, kubernetes, terraform, karpenter ]
 ---
@@ -93,7 +93,7 @@ _Porém como preguiça pouca é besteira_, eu vou utilizar uma lambda que após 
 
 Peguei a base inicial dessa lambda através do artigo [Deploy CoreDNS on Amazon EKS with Fargate automatically using Terraform and Python](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/deploy-coredns-on-amazon-eks-with-fargate-automatically-using-terraform-and-python) escrito por **Kevin Vaughan** e **Lorenzo Couto** da AWS. Porém fiz algumas modificações de _stepback_ e _retry_ para realização dessa configuração porque algumas vezes falhava nas primeiras tentativas pela API não estar tão disponível quanto deveria.
 
-O provisionamento dela está em um repositório de exemplo separado para ajudar em casos isolados e também futuramente transformar em módulo que resolve esse problema. _Dor de cabeça pro Matheus do futuro_.
+O provisionamento dela está em um repositório de exemplo separado para ajudar em casos isolados e também futuramente transformar em módulo que resolve esse problema. _Dor de cabeça pro eder do futuro_.
 
 No caso no Terraform iremos empacotar o script normalmente e criar a lambda na VPC que entregamos o cluster.
 

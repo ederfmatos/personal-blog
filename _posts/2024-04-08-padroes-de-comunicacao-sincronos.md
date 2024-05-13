@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/system-design/sincrono.png
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ system-design, engineering, cloud ]

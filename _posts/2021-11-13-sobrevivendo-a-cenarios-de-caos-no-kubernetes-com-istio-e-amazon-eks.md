@@ -2,7 +2,7 @@
 layout: post
 title: Sobrevivendo a cenários de caos no Kubernetes com Istio e Amazon EKS
 canonical_url: https://medium.com/@fidelissauro/sobrevivendo-a-cen%C3%A1rios-de-caos-no-kubernetes-com-istio-e-amazon-eks-4fb8469a73da?source=rss-fc2fda5e9bc2------2
-author: matheus
+author: eder
 categories: [ kubernetes, istio, disaster-recovery, service-mesh ]
 image: assets/images/istio-logo-vg.png
 ---

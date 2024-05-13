@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/system-design/concurrency.png
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ system-design, golang, engineering ]

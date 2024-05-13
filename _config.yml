@@ -1,6 +1,6 @@
 # Site
-name: "Matheus Fidelis"
-title: "Matheus Fidelis - Engineering Blog"
+name: "Eder Matos"
+title: "Eder Matos - Engineering Blog"
 description: "Technical Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -10,18 +10,15 @@ google_analytics: 'UA-46278016-1'
 include: ["_pages"]
 permalink: /:title/
 
-url: "https://fidelissauro.dev"
+url: "https://blog.edermatos.dev"
 
 # Authors
 authors:
-  matheus:
-    name: Matheus Fidelis
-    display_name: Matheus Fidelis
-    gravatar: 5700ede08434f0ab49b75fe5543f129b
-    email: matheus@nanoshots.com.br
-    web: https://msfidelis.github.io/
-    twitter: https://twitter.com/fidelissauro
-    description: "Staff Engineer, Lifelong Learner, Site Reliability Engineer, Cloud and Containers Wizard, Software Alchemist and Home Bartender"
+  eder:
+    name: Eder Matos
+    display_name: Eder Matos
+    gravatar: ederfmatos
+    email: eder@nanoshots.com.br
 
 # Plugins
 plugins:

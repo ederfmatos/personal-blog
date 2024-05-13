@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/janelas-quebradas.png
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ opiniao, livres ]

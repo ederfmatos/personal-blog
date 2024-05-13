@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/keda-tps/thumb.jpg
-author: matheus
+author: eder
 featured: false
 published: true
 categories: [ keda, kubernetes, containers, cloud-native, capacity, dicas ]
